@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 
-# Addtional Authors:
+# Additional Authors:
 # SakshiBadakh2005
 
 # Input:
